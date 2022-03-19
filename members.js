@@ -6,3 +6,5 @@ export const data = [
 ];
 
 export default 'codeit';
+export default 'codeit';
+export default 'codeit';
