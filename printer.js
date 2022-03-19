@@ -4,3 +4,5 @@ const title = 'CodeitPrinter';
 function print(value){
   console.log(value);
 }
+
+export  { title as printTitle, print };
