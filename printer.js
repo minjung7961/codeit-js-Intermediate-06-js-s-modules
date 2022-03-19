@@ -1,6 +1,6 @@
 // 모듈 파일의 조건
-export const title = 'CodeitPrinter';
+const title = 'CodeitPrinter';
 
-export function print(value){
+function print(value){
   console.log(value);
 }
